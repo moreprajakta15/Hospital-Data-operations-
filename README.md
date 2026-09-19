@@ -70,5 +70,5 @@ Running the queries in this file gives you results like:
 ## Possible Next Steps
 
 - Add more sample data for testing
-- Build a front-end (web or desktop app) on top of this schema
+
 - Add views for common reports (e.g. daily appointments, unpaid bills)
